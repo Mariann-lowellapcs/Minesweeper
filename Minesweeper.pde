@@ -107,15 +107,15 @@ public void displayLosingMessage()
 public void displayWinningMessage()
 {
     
-    buttons[0][0].setLabel("C");
+    buttons[0][0].setLabel("Y");
     buttons[0][1].setLabel("O");
-    buttons[0][2].setLabel("N");
-    buttons[0][3].setLabel("G");
-    buttons[0][4].setLabel("R");
-    buttons[0][5].setLabel("A");
-    buttons[0][6].setLabel("T");
-    buttons[0][7].setLabel("S");
-    buttons[0][8].setLabel("!");
+    buttons[0][2].setLabel("U");
+    buttons[0][3].setLabel("");
+    buttons[0][4].setLabel("W");
+    buttons[0][5].setLabel("O");
+    buttons[0][6].setLabel("N");
+    buttons[0][7].setLabel("!");
+   
 }
 
 public class MSButton
